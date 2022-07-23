@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+
+    <!--代表外部存储区域的根目录下的文件 Environment.getExternalStorageDirectory()/Pictures/camerademo目录-->
+    <external-path
+        name="my_images"
+        path="Pictures" />
+    <root-path
+        name="root"
+        path="." />
+</paths>
